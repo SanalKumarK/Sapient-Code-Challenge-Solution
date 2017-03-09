@@ -1,0 +1,13 @@
+org\globalmart\api\catalogue\ProductCatalogueAPI.class
+org\globalmart\api\model\PriceResponse.class
+org\globalmart\api\App.class
+org\globalmart\api\GlobalMartService.class
+org\globalmart\api\model\Response.class
+org\globalmart\api\model\ProductRequest.class
+org\globalmart\api\model\GlobalMartDao.class
+org\globalmart\api\model\Product.class
+org\globalmart\api\db\GlobalMartDSAPI.class
+org\globalmart\api\pricing\ProductPriceService.class
+org\globalmart\api\db\GlobalMartDSService.class
+org\globalmart\api\catalogue\ProductCatalogueService.class
+org\globalmart\api\pricing\ProductPriceAPI.class
